@@ -1,7 +1,7 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: JANANI S         </h3>
 <h3>Register Number:  212222230049   </h3>
-<H3>Aim:</H3>
+<H2>Aim:</H2>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
 <p>Hill climbing is a variant of Generate and test in which feedback from test procedure is used to help the generator decide which direction to move in search space.
